@@ -3,7 +3,7 @@ title: Poole
 tagline: The Jekyll Butler
 url: https://jeongsoha.github.io
 paginate: 1
-baseurl: 
+baseurl: ""
 permalink: pretty
 
 remote_theme : mmistakes/minimal-mistakes
